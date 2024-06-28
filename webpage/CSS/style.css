@@ -1,0 +1,21 @@
+.new{
+  background-color: rgb(188, 209, 248);
+}
+
+.b1{
+  background-color: antiquewhite;
+}
+.f1{
+  background-color:rgb(188, 209, 248) ;
+}
+.n1{
+  padding-left: 60%;
+  display:inline-flex;
+  column-gap: 20px;
+  
+
+}
+.n1 a:hover{
+  background-color:black;
+  color: aliceblue;
+}

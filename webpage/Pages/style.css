@@ -1,0 +1,27 @@
+.new{
+  background-color: rgb(159, 190, 225);
+  
+}
+.n1{
+
+  padding-left: 60%;
+  display:flex;
+  column-gap: 20px;
+
+}
+.n1 a:hover{
+  background-color:black;
+  color: aliceblue;
+}
+ 
+
+.b1{
+  background-color:rgb(236, 229, 221);
+}
+.f1{
+  background-color:rgb(159, 190, 225);
+}
+.c1{
+  margin: 20px 0px 20px;
+  background-color: rgb(236, 229, 221);
+}
